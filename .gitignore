@@ -1,0 +1,18 @@
+# Database (auto-generated)
+clipboard_manager.db
+
+# Saved images (auto-generated)
+clipboard_images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+Thumbs.db
+.DS_Store
